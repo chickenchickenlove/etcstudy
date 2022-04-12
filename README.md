@@ -10,3 +10,4 @@
 - (자료구조) 병합 / 퀵 / 기수정렬 복습 + Hash 정리
 - (HTTP) IP / TCP / UDP 가장 기초적인 것 공부
 - (보안) CSRF가 무엇이고, Spring Security에서 어떻게 방어하는지. 
+- (Spring) Connection Pool 관련 정리 

@@ -11,3 +11,7 @@
 - (HTTP) IP / TCP / UDP 가장 기초적인 것 공부
 - (보안) CSRF가 무엇이고, Spring Security에서 어떻게 방어하는지. 
 - (Spring) Connection Pool 관련 정리 
+
+
+## 22.04.15
+- (운영체제) 프로세스 + 쓰레드

@@ -77,4 +77,10 @@
 - (JPA) em.flush vs JPQL / JPA Bulk 연산 / Collection과 JPA 동작 방식 / JPA 2차 캐시 / JPA 대용량 배치처리 / JPA 트랜잭션 격리 수준과 락
 - (JPA) Collection Join / Collection Join 시 페이징 / N+1 문제 처리
 - (JPA) OSIV / 객체의 영속성 컨텍스트 참조 / JPA 읽기 전용 최적화
-- 
+
+## 22.05.24
+- (JPA) em.flush vs JPQL / JPA Bulk 연산 / Collection과 JPA 동작 방식 / JPA 2차 캐시 / JPA 대용량 배치처리 / JPA 트랜잭션 격리 수준과 락
+- (JPA) Collection Join / Collection Join 시 페이징 / N+1 문제 처리
+- (JPA) OSIV / 객체의 영속성 컨텍스트 참조 / JPA 읽기 전용 최적화
+- (JPA) 영속성 컨텍스트 / 고아객체 / 영속성 전이
+- (운영체제) 메모리 관리 / 가상메모리 

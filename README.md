@@ -86,3 +86,5 @@
 - (운영체제) 메모리 관리 / 가상메모리 
 - (Spring MVC) 전체 흐름 공부
 
+## 22.05.25
+- (Spring Batch) 관련 간략 정리 (DDL / JOB / STEP / 멀티 프로그래밍 / CHUNK PROCESSOR)

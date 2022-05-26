@@ -88,3 +88,6 @@
 
 ## 22.05.25
 - (Spring Batch) 관련 간략 정리 (DDL / JOB / STEP / 멀티 프로그래밍 / CHUNK PROCESSOR)
+
+## 22.05.25
+- (기타) HTTP 1.1 / 2 / 3 차이 공부 
